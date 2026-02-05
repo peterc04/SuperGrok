@@ -45,9 +45,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/supergrok"
-Repository = "https://github.com/yourusername/supergrok"
-Issues = "https://github.com/yourusername/supergrok/issues"
+Homepage = "https://github.com/peterc04/supergrok"
+Repository = "https://github.com/peterc04/supergrok"
+Issues = "https://github.com/peterc04/supergrok/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]
