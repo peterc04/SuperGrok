@@ -17,7 +17,7 @@ pip install supergrok
 Or install from source:
 
 ```bash
-git clone https://github.com/yourusername/supergrok.git
+git clone https://github.com/peterc04/supergrok.git
 cd supergrok
 pip install -e .
 ```
